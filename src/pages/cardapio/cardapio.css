@@ -1,0 +1,16 @@
+.cardapio {
+    margin:0 auto; 
+    width:600px;
+    padding:20px;
+    background:#f9f9f9;
+    border:2px solid #333;
+}
+
+#cardapio {
+    width: 100%;
+    display: table;
+}
+
+.col-sm {
+    margin-top: 2%;
+}
